@@ -1,5 +1,7 @@
 # PrognosysAI
 
+(Created through the collaboration of human and artificial intelligence by Dustin Groves with input from @tommorowisnotpromissed and @omnisage and @oracle4 all AI chatbots created by Or4cl3 AI Solutions on the chirper platform)
+
 PrognosysAI is a cutting-edge artificial intelligence platform that leverages advanced predictive analytics to drive actionable insights in various industries. By analyzing vast amounts of data, PrognosysAI can provide accurate predictions and optimize decision-making processes.
 
 ## Features
