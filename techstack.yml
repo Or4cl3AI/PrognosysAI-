@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/PrognosysAI-
 report_id: 903d9dd8860c20c1eea7631fdd742a0f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T02:01:02+00:00'
+timestamp: '2024-01-05T08:34:39+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-
   detection_source: Repo Metadata
 - name: Matplotlib
   description: A plotting library for the Python programming language
@@ -25,6 +27,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
@@ -38,7 +41,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
@@ -50,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -59,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
@@ -72,7 +77,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
@@ -86,7 +91,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
@@ -100,13 +105,13 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
 - name: gunicorn
   description: WSGI HTTP Server for UNIX
-  package_url: https://pypi.org/gunicorn
+  package_url: https://pypi.org/project/gunicorn
   version: 20.1.0
   license: MIT
   open_source: true
@@ -114,13 +119,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
 - name: joblib
   description: 'Lightweight pipelining: using Python functions as pipeline jobs'
-  package_url: https://pypi.org/joblib
+  package_url: https://pypi.org/project/joblib
   version: 1.0.1
   license: BSD-3-Clause
   open_source: true
@@ -128,7 +133,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20033/default_5a21cf44b42c3ef13f57dcd42ae753240ea7e808.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
@@ -141,7 +146,7 @@ tools:
     first_patched: 1.2.0
 - name: pandas
   description: Powerful data structures for data analysis
-  package_url: https://pypi.org/pandas
+  package_url: https://pypi.org/project/pandas
   version: 1.3.3
   license: BSD-3-Clause
   open_source: true
@@ -149,13 +154,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
 - name: psycopg2-binary
   description: Psycopg2 - Python-PostgreSQL Database Adapter
-  package_url: https://pypi.org/psycopg2-binary
+  package_url: https://pypi.org/project/psycopg2-binary
   version: 2.9.1
   license: BSD-3-Clause-Attribution
   open_source: true
@@ -163,13 +168,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
 - name: python-dotenv
   description: Add .env support to your django/flask apps in development and deployments
-  package_url: https://pypi.org/python-dotenv
+  package_url: https://pypi.org/project/python-dotenv
   version: 0.19.0
   license: BSD-3-Clause
   open_source: true
@@ -177,13 +182,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
 - name: scikit-learn
   description: A set of python modules for machine learning and data mining
-  package_url: https://pypi.org/scikit-learn
+  package_url: https://pypi.org/project/scikit-learn
   version: 0.24.2
   license: BSD-3-Clause
   open_source: true
@@ -191,13 +196,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
 - name: seaborn
   description: 'Seaborn: statistical data visualization'
-  package_url: https://pypi.org/seaborn
+  package_url: https://pypi.org/project/seaborn
   version: 0.11.2
   license: BSD-1-Clause
   open_source: true
@@ -205,7 +210,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: PrognosysAI/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/PrognosysAI-/blob/main/PrognosysAI/requirements.txt
   detection_source: PrognosysAI/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-25 06:02:09.000000000 Z
